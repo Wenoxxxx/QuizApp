@@ -4,8 +4,15 @@ function QuizCard(){
 
     return(
         <>
-        <h1>Question Number 1</h1>
-        
+        <h2>Question Number 1</h2>
+        <p>Question deascription</p>
+
+        <ul>
+            <li>A</li>
+            <li>B</li>
+            <li>C</li>
+            <li>D</li>
+        </ul>
         </>
     )
 
